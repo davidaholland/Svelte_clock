@@ -1,4 +1,4 @@
-Clock App
+OS Clock App
 
 *Looking for a shareable component template instead? You can [use SvelteKit for that as well](https://kit.svelte.dev/docs#packaging) or the older [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
