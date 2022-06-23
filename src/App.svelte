@@ -107,7 +107,7 @@
 	}
 
 	.second, .second-counterweight {
-		stroke: rgb(248, 6, 99);
+		stroke: rgb(165, 160, 162);
 	}
 
 	.second {
