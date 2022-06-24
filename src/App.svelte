@@ -92,7 +92,7 @@
 	}
 
 	.major {
-		stroke: rgb(233, 16, 16);
+		stroke: rgb(109, 59, 59);
 		stroke-width: 1.4;
 	}
 
