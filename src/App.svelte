@@ -92,7 +92,7 @@
 	}
 
 	.major {
-		stroke: rgb(109, 59, 59);
+		stroke: rgb(219, 7, 149);
 		stroke-width: 1.4;
 	}
 
@@ -107,7 +107,7 @@
 	}
 
 	.second, .second-counterweight {
-		stroke: rgb(207, 204, 205);
+		stroke: #f36796;
 	}
 
 	.second {
