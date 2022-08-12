@@ -101,7 +101,7 @@
  </style>
  
   
- <g  transform="translate(-61,-205) scale(0.64)">
+ <g  transform="translate(-61,-212) scale(0.66)">
   
   <g 
 	id="g10042"
@@ -290,22 +290,22 @@
 	}
 
 	.major {
-		stroke: rgb(248, 10, 169);
+		stroke: rgb(132, 131, 132);
 		stroke-width: 1.4;
 	}
 
 	.hour {
-		stroke: rgb(255, 208, 0);
+		stroke: rgb(0, 0, 0);
 		stroke-width: 1.5;
 	}
 
 	.minute {
-		stroke: rgba(255, 208, 0);
+		stroke: rgb(0, 0, 0);
 		stroke-width: 1.5;
 	}
 
 	.second, .second-counterweight {
-		stroke: #f10c59;
+		stroke: #6e6e6e;
 	}
 
 	.second {
